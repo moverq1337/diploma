@@ -14,6 +14,10 @@ export default {
 				background: 'var(--background)',
 				foreground: 'var(--foreground)',
 			},
+			fontSize: {
+				extra: '11.375rem',
+				extraa: '500px',
+			},
 		},
 	},
 	darkMode: 'class',

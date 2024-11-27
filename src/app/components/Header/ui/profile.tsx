@@ -7,7 +7,7 @@ type ProfileProps = {
 }
 
 const Profile: React.FC<ProfileProps> = ({
-	name = 'Jane Doe',
+	name = 'moverq',
 	description = 'Product Designer',
 	avatarSrc,
 }) => {

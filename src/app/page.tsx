@@ -1,3 +1,9 @@
+import StartInfo from './components/startPage/startInfo'
+
 export default function Home() {
-	return <div> </div>
+	return (
+		<div>
+			<StartInfo />
+		</div>
+	)
 }

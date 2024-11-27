@@ -3,7 +3,7 @@ import Profile from './ui/profile'
 const Header = () => {
 	return (
 		<div className='flex justify-between px-10 py-5'>
-			<h1>МВП</h1>
+			<h1 className=''>МВП</h1>
 			<div className='flex justify-center gap-8'>
 				<a href=''>Мужское</a>
 				<a href=''>Женское</a>
